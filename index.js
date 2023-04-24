@@ -1,6 +1,6 @@
 const readline = require('readline');
 const fs = require('fs');
-const { createSVG } = require('./svgUtils');
+const svgUtils = require('svgutils');
 
 const rl = readline.createInterface({
   input: process.stdin,

@@ -15,5 +15,8 @@
     "url": "nhunguyen-debug"
   },
   "author": "wren",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "svgutils": "^0.13.6"
+  }
 }
